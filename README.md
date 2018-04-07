@@ -1,4 +1,5 @@
-# Codefights ![git-python-img](images/github-python.png)
+ ![git-python-img](images/github-python.png)
+ # Codefights
 > Curated list of solutions and some explanations of exercises in codefights.
 
 This repository is primarily for me to review solutions that I've completed in codefights 
